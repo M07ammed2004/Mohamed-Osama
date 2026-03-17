@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Osama(profile.jpg)
+# Hi there, I'm Mohammed Osama(https://github.com/M07ammed2004/Mohamed-Osama/blob/main/1772506584496.jfif)
 ### Embedded Systems Engineer | DevOps Enthusiast | IoT Developer
 
 I am a passionate Engineer focused on bridging the gap between **Hardware Precision** and **Software Automation**. Currently, I'm building smart systems with **ESP32** and streamlining workflows using **DevOps** practices.
