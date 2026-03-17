@@ -33,6 +33,9 @@ I am a passionate Engineer focused on bridging the gap between **Hardware Precis
 
 ---
 
+###  Project Documentation
+- [View Full Technical & Financial Proposal (PDF)](./proposal_n8n_automation.pdf)
+
 ###  GitHub Stats
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
