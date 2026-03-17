@@ -34,14 +34,17 @@ I am a passionate Engineer focused on bridging the gap between **Hardware Precis
 ---
 
 ###  GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=radical)
 
 ---
 
 ###  Let's Connect!
 * **LinkedIn:** [linked-in](https://www.linkedin.com/feed/)
-* **Canva Portfolio:** 
 * **Email:** [mohamnedosama2030@gmail.com]
 
 ---
