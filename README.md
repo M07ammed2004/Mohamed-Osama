@@ -1,4 +1,4 @@
-# Hi there, I'm [Mohammed Osama]! 👋 
+# Hi there, I'm Mohammed Osama 
 ### Embedded Systems Engineer | DevOps Enthusiast | IoT Developer
 
 I am a passionate Engineer focused on bridging the gap between **Hardware Precision** and **Software Automation**. Currently, I'm building smart systems with **ESP32** and streamlining workflows using **DevOps** practices.
@@ -40,7 +40,7 @@ I am a passionate Engineer focused on bridging the gap between **Hardware Precis
 ---
 
 ###  Let's Connect!
-* **LinkedIn:** [رابط-لينكدإن-بتاعك](https://www.linkedin.com/feed/)
+* **LinkedIn:** [linked-in](https://www.linkedin.com/feed/)
 * **Canva Portfolio:** 
 * **Email:** [mohamnedosama2030@gmail.com]
 
